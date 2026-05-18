@@ -91,7 +91,7 @@ function IsLuknam() {
         angle: 60,
         spread: 55,
         origin: { x: 0, y: 1 },
-        colors: ["#ff2a85", "#ffffff", "#ffb6c1"], // สีพลุให้เข้ากับป้าย LED
+        colors: ["#ebde34", "#ffffff", "#38eb8e"], // สีพลุให้เข้ากับป้าย LED
         zIndex: 100, // ให้อยู่ด้านหน้าสุด
       });
       // พลุยิงจากมุมขวาล่าง
@@ -100,7 +100,7 @@ function IsLuknam() {
         angle: 120,
         spread: 55,
         origin: { x: 1, y: 1 },
-        colors: ["#ff2a85", "#ffffff", "#ffb6c1"],
+        colors: ["#ebde34", "#ffffff", "#38eb8e"],
         zIndex: 100,
       });
 
